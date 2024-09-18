@@ -1,0 +1,20 @@
+body {
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.placeholder {
+    border: orange solid 2px;
+    width: 50%;
+    font-size: 48px;
+    }
+    
+#calendarBox {
+    width: 40%;
+    height: 50%;
+    border: pink solid 16px;
+    font-size: 48px;
+    
+}
